@@ -1,0 +1,572 @@
+@media screen and (min-width: 1200px) {
+  .fa-bars {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  /* First Section ============================================= >  */
+  #page_1 {
+    height: 100vh;
+  }
+
+  .fa-bars {
+    display: none;
+  }
+
+  #page_4 {
+    height: 110vh;
+  }
+
+  #btn_carasoul1 {
+    display: none;
+  }
+
+  #contact_form {
+    width: 73%;
+  }
+
+  /* Second Section ============================================= > */
+}
+
+@media screen and (max-width: 1100px) {
+  #page_4 {
+    height: 110vh;
+  }
+}
+
+@media screen and (max-width: 980px) {
+  /* Second Section ============================================= > */
+
+  .page_2 {
+    flex-wrap: wrap;
+  }
+
+  #whole_meetings {
+    flex-wrap: wrap;
+  }
+
+  #whole_meetings #meeting_Catgories {
+    width: 30vw;
+  }
+
+  #whole_meetings #meeting_Catgories h3 {
+    font-size: 2vw;
+  }
+
+  #whole_meetings #meeting_Catgories .paragraph p {
+    font-size: 1.5vw;
+  }
+
+  #whole_meetings #meeting_Catgories button {
+    font-size: 1.5vw;
+  }
+
+  #meetings_schedule .meeting img {
+    width: 34vw;
+    height: 12vw;
+  }
+
+  .meeting_content {
+    width: 34vw;
+  }
+
+  .month-date span {
+    font-size: 1.3vw;
+  }
+
+  .month-date p {
+    font-size: 2.3vw;
+  }
+
+  .meeting_heading {
+    font-size: 2vw;
+  }
+
+  .meeting_detail {
+    font-size: 1.5vw;
+  }
+}
+
+@media screen and (max-width: 815px) {
+  /* First Section ============================================= >  */
+  #small_head p {
+    font-size: 1.3vw;
+  }
+
+  #small_head p span {
+    font-size: 1.3vw;
+  }
+
+  #small_head .icons i {
+    font-size: 1.3vw;
+  }
+
+  header #logo {
+    font-size: 2vw;
+  }
+
+  header #nav_list a {
+    font-size: 1.5vw;
+  }
+
+  #hero_content .hero_headline {
+    font-size: 2vw;
+  }
+
+  #hero_content .hero_title {
+    font-size: 5vw;
+  }
+
+  #hero_content .hero_detail {
+    font-size: 1.8vw;
+  }
+
+  #hero_educ_mat {
+    width: 100%;
+    height: 100vh;
+  }
+
+  #hero_educ_mat {
+    display: none;
+  }
+
+  #btn_carasoul {
+    display: none;
+  }
+
+  #hero_content .hero_detail {
+    width: 90%;
+  }
+
+  /* Second Section ============================================= > */
+
+  #page_2 {
+    width: 100%;
+    height: 110vh;
+  }
+
+  /* Third Section ============================================= > */
+
+  #page_3 {
+    height: 190vh;
+    justify-content: center;
+  }
+
+  .content-box {
+    justify-content: center;
+    row-gap: 30px;
+  }
+
+  #page_3 #degree_sec {
+    width: 70vw;
+  }
+
+  #template_sec {
+    width: 55vw;
+    height: 90vw;
+  }
+  /* Fourth Section ============================================= > */
+  #page_4 {
+    width: 100%;
+    height: 205vh;
+  }
+
+  /* Fifth Section ============================================= > */
+
+  #page_5 {
+    width: 100%;
+    height: 195vh;
+  }
+
+  #page_5 #main_students {
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    row-gap: 60px;
+  }
+
+  #page_5 #main_students #ratio_students {
+    width: 100%;
+    justify-content: center;
+  }
+
+  #page_5 #main_students #ratio_students h2 {
+    font-size: 3.5vw;
+    text-align: center;
+  }
+
+  #page_5 #main_students #ratio_students .first_box {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  #page_5 #main_students #ratio_students .first_box .students_boxs {
+    width: 50vw;
+  }
+
+  #page_5 #main_students #ratio_students .first_box .students_boxs h1 {
+    font-size: 3vw;
+  }
+
+  #page_5 #main_students #ratio_students .first_box .students_boxs p {
+    font-size: 2vw;
+  }
+
+  #page_5 #main_students #ratio_students .second_box {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  #page_5 #main_students #ratio_students .second_box .students_boxs {
+    width: 50vw;
+  }
+
+  #page_5 #main_students #ratio_students .second_box .students_boxs h1 {
+    font-size: 3vw;
+  }
+
+  #page_5 #main_students #ratio_students .second_box .students_boxs p {
+    font-size: 2vw;
+  }
+
+  #page_5 #main_students #image_students {
+    width: 50vw;
+    height: 50vw;
+  }
+
+  #page_5 #main_students #image_students i {
+    font-size: 3.5vw;
+  }
+
+  /* Sixth & Last Section ============================================= > */
+  #page_6 {
+    height: 155vh;
+    flex-wrap: wrap;
+  }
+  #page_6 #contact_info {
+    flex-wrap: wrap;
+    row-gap: 20px;
+    justify-content: center;
+  }
+
+  #page_6 #contact_info #contact_form {
+    width: 80vw;
+  }
+
+  #page_6 #contact_info #contact_details {
+    width: 40vw;
+  }
+
+  ._info {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+  }
+
+  #page_6 #contact_info #contact_form form ._info input {
+    width: 45vw;
+  }
+}
+
+@media screen and (max-width: 680px) {
+  #small_head {
+    padding: 0 50px;
+  }
+
+  header {
+    padding: 0 50px;
+  }
+
+  #hero_sec_cont {
+    height: 90%;
+  }
+
+  #hero_content {
+    padding: 0 50px;
+  }
+
+  #hero_content .hero_detail {
+    width: 90%;
+  }
+
+  #meetings_schedule .meeting img {
+    height: 20vw;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  /* First Section ============================================= >  */
+
+  #page_1 {
+    width: 100%;
+    height: 70vh;
+  }
+
+  #small_head {
+    padding: 0 40px;
+    justify-content: center;
+  }
+
+  #small_head p {
+    display: none;
+  }
+
+  #small_head .icons {
+    display: flex;
+    column-gap: 40px;
+  }
+
+  #small_head .icons i {
+    font-size: 3vw;
+  }
+
+  .fa-bars {
+    display: flex;
+  }
+
+  header #nav_list {
+    display: none;
+  }
+
+  header {
+    padding: 0 40px;
+  }
+
+  #hero_content {
+    justify-content: center;
+  }
+
+  #hero_content #hero_ctn {
+    margin-bottom: 25%;
+  }
+
+  /* Second Section ============================================= >  */
+
+  #page_2 {
+    width: 100%;
+    height: 170vh;
+  }
+
+  #whole_meetings #meeting_Catgories {
+    width: 45vw;
+  }
+
+  #whole_meetings #meeting_Catgories h3 {
+    font-size: 3.5vw;
+  }
+
+  #whole_meetings #meeting_Catgories .paragraph p {
+    font-size: 2.2vw;
+  }
+
+  #whole_meetings #meeting_Catgories button {
+    font-size: 2vw;
+    font-weight: bolder;
+    padding: 10px 15px;
+  }
+
+  /* Fifth Section ============================================= >  */
+
+  #page_5 {
+    height: 155vh;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  /* First Section ============================================= >  */
+
+  #hero_content {
+    margin-top: 0;
+  }
+
+  header #logo {
+    font-size: 3.5vw;
+  }
+
+  #hero_content .hero_headline {
+    font-size: 2.7vw;
+  }
+
+  #hero_content .hero_title {
+    font-size: 6vw;
+  }
+
+  #hero_content .hero_detail {
+    font-size: 2.8vw;
+  }
+
+  /* Second Section ============================================= >  */
+
+  #page_2 {
+    width: 100%;
+    height: 130vh;
+  }
+
+  #page_2 .heading_mett {
+    padding: 0 40px;
+  }
+
+  #page_2 #meetings_heading {
+    width: 100%;
+    margin-top: 0%;
+  }
+
+  h2 {
+    width: 100%;
+  }
+  #whole_meetings #meeting_Catgories {
+    width: 65vw;
+  }
+
+  #whole_meetings #meeting_Catgories h3 {
+    font-size: 4.5vw;
+  }
+
+  #whole_meetings #meeting_Catgories .paragraph p {
+    font-size: 3.2vw;
+  }
+
+  #whole_meetings #meeting_Catgories button {
+    font-size: 3vw;
+    font-weight: bolder;
+    padding: 10px 15px;
+  }
+
+  #meetings_schedule .meeting img {
+    width: 40vw;
+    height: 22vw;
+  }
+
+  .meeting_content {
+    width: 40vw;
+
+    padding: 10px;
+  }
+  #meetings_schedule .meeting img {
+    width: 40vw;
+  }
+
+  .month-date span {
+    font-size: 2vw;
+  }
+
+  .month-date p {
+    font-size: 3vw;
+  }
+
+  .meeting_heading {
+    font-size: 2.7vw;
+  }
+
+  .meeting_detail {
+    font-size: 2vw;
+  }
+
+  /* Third Section ============================================= >  */
+
+  #page_3 {
+    height: 210vh;
+  }
+
+  #template_sec {
+    padding: 25px;
+    width: 95%;
+    height: 142vw;
+  }
+
+  /* Fourth Section ============================================= >  */
+
+  #page_4 {
+    padding: 0 50px;
+  }
+
+  #page_4 h2 {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10%;
+  }
+
+  /* Fifth Section ============================================= >  */
+
+  #page_5 {
+    width: 100%;
+    height: 145vh;
+    padding: 0 50px;
+  }
+
+  #page_5 #main_students #ratio_students h2 {
+    width: 100%;
+    font-size: 5.5vw;
+  }
+
+  #page_5 #main_students #ratio_students .first_box .students_boxs {
+    width: 100%;
+  }
+
+  #page_5 #main_students #ratio_students .first_box .students_boxs h1 {
+    font-size: 5vw;
+  }
+
+  #page_5 #main_students #ratio_students .first_box .students_boxs p {
+    font-size: 3vw;
+  }
+
+  #page_5 #main_students #ratio_students .second_box {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  #page_5 #main_students #ratio_students .second_box .students_boxs {
+    width: 100%;
+  }
+
+  #page_5 #main_students #ratio_students .second_box .students_boxs h1 {
+    font-size: 5vw;
+  }
+
+  #page_5 #main_students #ratio_students .second_box .students_boxs p {
+    font-size: 3vw;
+  }
+
+  #page_5 #main_students #image_students {
+    width: 50vw;
+    height: 50vw;
+  }
+
+  #page_5 #main_students #image_students i {
+    font-size: 3.5vw;
+  }
+
+  #page_5 #main_students #image_students {
+    width: 80vw;
+    height: 50vw;
+  }
+
+  /* Sixth Section ============================================= >  */
+
+  #page_6 {
+    height: 155vh;
+  }
+
+  #page_6 #contact_info #contact_form form ._info input {
+    width: 25vw;
+  }
+
+  #page_6 #contact_info #contact_details .inpt {
+    width: 100%;
+  }
+
+  #page_6 #contact_info #contact_form form ._info input {
+    min-width: 63vw;
+  }
+  #page_6 #contact_info #contact_form form #btn {
+    width: 63vw;
+    text-align: center;
+  }
+
+  #page_6 #contact_info #contact_details {
+    width: 100%;
+  }
+}
